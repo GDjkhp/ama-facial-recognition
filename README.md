@@ -1,14 +1,17 @@
-<script src="https://GDjkhp.github.io/NoobGPT/script.js"></script>
+<script src="https://GDjkhp.github.io/scripts/aiface.js"></script>
 <div style="position: relative;" markdown="1">
 <link rel="stylesheet" href="https://GDjkhp.github.io/NoobGPT/style.css">
 
 <center>
 <h1>fuck i need money so bad i need publish this disgusting paper tas need pa ma-bookbind kasi requirements potek nayan i hate college so much im dedicating this project sa lahat ng mga nasa kolehiyo pa kasi grabe dinanas ko >_<</h1>
+<img src="https://GDjkhp.github.io/img/preview_ai.jpg" height=320>
+<br>
 if you enjoyed the time you wasted then it's not a waste of time <3
 <br>
 donate kayo if you find this repo helpful minimum lang sweldo ko sa trabaho :3
 <br>
 halos lahat ng python script ay AI generated ni OpenAI at Claude, kaya kung may tanong kayo, wag sakin, tanong nyo sa kanila XD
+<br>
 <h1>AMA Facial Recognition: Digital Records-logs Management System</h1>
 A Thesis Presented to the Faculty of AMA Computer
 College Lucena Campus, Lucena City
@@ -19,9 +22,10 @@ Degree Bachelor of Science in Computer Science
 John Emmanuel S. Marco
 <br>
 John Kennedy H. Peña
+<br>
+<img src="https://GDjkhp.github.io/img/previewai.png" width=720>
 <h1>Copyright 2024, The Karakters Kompany</h1>
-
-lisensya? anong pinagsasasabi mo? ofc meron. need mo hunter [license](http://www.wtfpl.net/) OwO
+lisensya? anong pinagsasasabi mo? ofc meron. need mo <a href="http://www.wtfpl.net/">hunter license</a> OwO
 </center>
 <h1>para saan to?</h1>
 para mas mapadali mag monitor ng mga tao sa paligid kasi may trust issues si eman (spy ng china)
@@ -41,7 +45,7 @@ para mas mapadali mag monitor ng mga tao sa paligid kasi may trust issues si ema
 <h3>kung ready na lahat, sundan mo to:</h3>
 
 1. install all reqiured libraries: requirements.txt or pwede rin mano-mano good luck (hint: pip install)
-2. download mo lahat ng mga script: [click here to download](https://github.com/GDjkhp/ama-facial-recognition/archive/refs/heads/main.zip)
+2. download mo lahat ng mga script: [click here to download](https://github.com/GDjkhp/ama-facial-recognition/archive/refs/heads/master.zip)
 3. enroll mo mukha mo: set-up mo si server (server_capture.py) then picture picture (mp_client.py)
 4. train mo si AI: extract mo lahat ng mga mukha (readdb.py) then train (mp_train.py)
 5. finally try mo na sya congrats: (mp_deploy.py)
