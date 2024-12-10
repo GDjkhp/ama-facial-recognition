@@ -24,7 +24,7 @@ John Kennedy H. Peña
 <br>
 <img src="https://GDjkhp.github.io/img/previewai.png" width=720>
 <h1>Copyright 2024, The Karakters Kompany</h1>
-lisensya? anong pinagsasasabi mo? ofc meron. need mo <a href="http://www.wtfpl.net/">hunter license</a> OwO
+lisensya? anong pinagsasasabi mo? ofc meron. need mo <a href="http://www.wtfpl.net">hunter license</a> OwO
 </center>
 <h1>para saan to?</h1>
 para mas mapadali mag monitor ng mga tao sa paligid kasi may trust issues si eman (spy ng china)
@@ -44,20 +44,20 @@ para mas mapadali mag monitor ng mga tao sa paligid kasi may trust issues si ema
 <h3>kung ready na lahat, sundan mo to:</h3>
 
 1. install all reqiured libraries: requirements.txt or pwede rin mano-mano good luck (hint: pip install)
-2. download mo lahat ng mga script: [click here to download](https://github.com/GDjkhp/ama-facial-recognition/archive/refs/heads/master.zip)
+2. download mo lahat ng mga script: [source code](https://github.com/GDjkhp/ama-facial-recognition) / [download](https://github.com/GDjkhp/ama-facial-recognition/archive/refs/heads/master.zip)
 3. enroll mo mukha mo: set-up mo si server (server_capture.py) then picture picture (mp_client.py)
 4. train mo si AI: extract mo lahat ng mga mukha (readdb.py) then train (mp_train.py)
 5. finally try mo na sya congrats: (mp_deploy.py)
 <h1>format ng mga files at structure ng source code</h1>
 
-<h3>/*.py</h3>lahat ng logic nandito
-<h3>/requirements.txt</h3>lahat ng required python libraries nandito
-<h3>/json/*.json</h3>mga data ng mga mukha + other information na nakalap ni server
-<h3>/received_images/{name}/*.png or *.jpg</h3>lahat ng mga mukha na ni train ni AI
-<h3>/face_embeddings.json</h3>AI weight pagkatapos i-train
-<h3>/face_detection_logs.csv</h3>dito nagtatala ng date and time at camera forda person
-<h3>/LICENSE</h3>DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-<h3>/README.md</h3>itong binabasa mo
+* `/*.py` lahat ng logic nandito
+* `/requirements.txt` lahat ng required python libraries nandito
+* `/json/*.json` mga data ng mga mukha + other information na nakalap ni server
+* `/received_images/{name}/*.png or *.jpg` lahat ng mga mukha na ni train ni AI
+* `/face_embeddings.json` AI weight pagkatapos i-train
+* `/face_detection_logs.csv` dito nagtatala ng date and time at camera forda person
+* `/LICENSE` DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+* `/README.md` itong binabasa mo
 
 <marquee><h3>hindi rito kasama node.js server at client code, gamitin nyo nalang server_capture.py at mp_client.py :) pero kung need nyo to, chat nyo nalang si eman O_o</h3></marquee>
 </div>
