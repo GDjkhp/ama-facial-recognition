@@ -2,7 +2,7 @@
 <div style="position: relative;" markdown="1">
 <link rel="stylesheet" href="https://GDjkhp.github.io/NoobGPT/style.css">
 
-<center>
+<div align="center">
 <h1>fuck i need money so bad i need to publish this disgusting paper tas need pa ma-bookbind kasi requirements potek nayan i hate college so much im dedicating this project sa lahat ng mga nasa kolehiyo pa kasi grabe dinanas ko >_<</h1>
 <img src="https://GDjkhp.github.io/img/preview_ai.jpg" height=320>
 <br>
@@ -27,7 +27,7 @@ John Kennedy H. Peña
 lisensya? anong pinagsasasabi mo? ofc meron. need mo <a href="http://www.wtfpl.net">hunter license</a> OwO
 <br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://GDjkhp.github.io/img/PDF_32.png" width=32></a><a href="https://github.com/GDjkhp/ama-facial-recognition"><img src="https://GDjkhp.github.io/img/git.png" width=32></a>
-</center>
+</div>
 <h1>para saan to?</h1>
 para mas mapadali mag monitor ng mga tao sa paligid kasi may trust issues si eman (spy ng china)
 
