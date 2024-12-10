@@ -13,12 +13,11 @@ if you enjoyed the time you wasted then it's not a waste of time <3
 halos lahat ng python script ay AI generated ni OpenAI at Claude, kaya kung may tanong kayo, wag sakin, tanong nyo sa kanila XD
 <br>
 <h1>AMA Facial Recognition: Digital Records-logs Management System</h1>
-A Thesis Presented to the Faculty of AMA Computer
-College Lucena Campus, Lucena City
-
-In Partial Fulfilment of the Requirements for the
-Degree Bachelor of Science in Computer Science
-
+A Thesis Presented to the Faculty of AMA Computer College Lucena Campus, Lucena City
+<br>
+In Partial Fulfilment of the Requirements for the Degree Bachelor of Science in Computer Science
+<br>
+<br>
 John Emmanuel S. Marco
 <br>
 John Kennedy H. Peña
