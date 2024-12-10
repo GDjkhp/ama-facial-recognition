@@ -1,0 +1,9 @@
+imgbeddings
+mediapipe
+opencv-contrib-python
+requests
+flask
+flask-cors
+pyqt5
+numpy
+pillow
