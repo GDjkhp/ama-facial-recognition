@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="https://GDjkhp.github.io/NoobGPT/style.css">
 
 <center>
-<h1>fuck i need money so bad i need publish this disgusting paper tas need pa ma-bookbind kasi requirements potek nayan i hate college so much im dedicating this project sa lahat ng mga nasa kolehiyo pa kasi grabe dinanas ko >_<</h1>
+<h1>fuck i need money so bad i need to publish this disgusting paper tas need pa ma-bookbind kasi requirements potek nayan i hate college so much im dedicating this project sa lahat ng mga nasa kolehiyo pa kasi grabe dinanas ko >_<</h1>
 <img src="https://GDjkhp.github.io/img/preview_ai.jpg" height=320>
 <br>
 if you enjoyed the time you wasted then it's not a waste of time <3
@@ -25,6 +25,8 @@ John Kennedy H. Peña
 <img src="https://GDjkhp.github.io/img/previewai.png" width=720>
 <h1>Copyright 2024, The Karakters Kompany</h1>
 lisensya? anong pinagsasasabi mo? ofc meron. need mo <a href="http://www.wtfpl.net">hunter license</a> OwO
+<br>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://GDjkhp.github.io/img/PDF_32.png" width=32></a><a href="https://github.com/GDjkhp/ama-facial-recognition"><img src="https://GDjkhp.github.io/img/git.png" width=32></a>
 </center>
 <h1>para saan to?</h1>
 para mas mapadali mag monitor ng mga tao sa paligid kasi may trust issues si eman (spy ng china)
@@ -44,7 +46,7 @@ para mas mapadali mag monitor ng mga tao sa paligid kasi may trust issues si ema
 <h3>kung ready na lahat, sundan mo to:</h3>
 
 1. install all reqiured libraries: requirements.txt or pwede rin mano-mano good luck (hint: pip install)
-2. download mo lahat ng mga script: [source code](https://github.com/GDjkhp/ama-facial-recognition) / [download](https://github.com/GDjkhp/ama-facial-recognition/archive/refs/heads/master.zip)
+2. download mo lahat ng mga script: [download as zip](https://github.com/GDjkhp/ama-facial-recognition/archive/refs/heads/master.zip)
 3. enroll mo mukha mo: set-up mo si server (server_capture.py) then picture picture (mp_client.py)
 4. train mo si AI: extract mo lahat ng mga mukha (readdb.py) then train (mp_train.py)
 5. finally try mo na sya congrats: (mp_deploy.py)
