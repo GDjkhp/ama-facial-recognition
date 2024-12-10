@@ -8,7 +8,7 @@
 <br>
 if you enjoyed the time you wasted then it's not a waste of time <3
 <br>
-donate kayo if you find this repo helpful minimum lang sweldo ko sa trabaho :3
+<a href="https://paypal.me/GDjkhp">donate</a> kayo if you find this repo helpful minimum lang sweldo ko sa trabaho :3
 <br>
 halos lahat ng python script ay AI generated ni OpenAI at Claude, kaya kung may tanong kayo, wag sakin, tanong nyo sa kanila XD
 <br>
