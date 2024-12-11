@@ -1,6 +1,7 @@
 <script src="https://GDjkhp.github.io/scripts/aiface.js"></script>
 <div style="position: relative;" markdown="1">
-<link rel="stylesheet" href="https://GDjkhp.github.io/NoobGPT/style.css">
+<link rel="stylesheet" href="https://GDjkhp.github.io/styles/style_cursor.css">
+<link rel="icon" href="https://GDjkhp.github.io/img/kagura-hd.png">
 
 <div align="center">
 <h1>fuck i need money so bad i need to publish this disgusting paper tas need pa ma-bookbind kasi requirements potek nayan i hate college so much im dedicating this project sa lahat ng mga nasa kolehiyo pa kasi grabe dinanas ko >_<</h1>
