@@ -1,4 +1,5 @@
-<div style="position: relative;" markdown="1">
+<script src="https://GDjkhp.github.io/scripts/aiface.js"></script>
+
 <div align="center">
 <h1>fuck i need money so bad i need to publish this disgusting paper tas need pa ma-bookbind kasi requirements potek nayan i hate college so much im dedicating this project sa lahat ng mga nasa kolehiyo pa kasi grabe dinanas ko >_<</h1>
 <img src="https://GDjkhp.github.io/img/preview_ai.jpg" height=320>
@@ -59,4 +60,3 @@ para mas mapadali mag monitor ng mga tao sa paligid kasi may trust issues si ema
 * `/README.md` itong binabasa mo
 
 <marquee><h3>hindi rito kasama node.js server at client code, gamitin nyo nalang server_capture.py at mp_client.py :) pero kung need nyo to, chat nyo nalang si eman O_o</h3></marquee>
-</div>
