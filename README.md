@@ -1,6 +1,6 @@
 <script src="https://GDjkhp.github.io/scripts/aiface.js"></script>
 <div align="center">
-<h1>fuck i need money so bad i need to publish this disgusting paper tas need pa ma-bookbind kasi requirements potek nayan i hate college so much im dedicating this project sa lahat ng mga nasa kolehiyo pa kasi grabe dinanas ko >_<</h1>
+<h1>fuck i need money so bad i need to publish this messed up paper tas need pa ma-bookbind kasi requirements potek nayan i hate college so much im dedicating this project sa lahat ng mga nasa kolehiyo pa kasi grabe dinanas ko >_<</h1>
 <img src="https://GDjkhp.github.io/img/preview_ai.jpg" height=320>
 <br>
 if you enjoyed the time you wasted then it's not a waste of time <3
