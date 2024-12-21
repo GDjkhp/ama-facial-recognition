@@ -1,4 +1,3 @@
-<script src="https://GDjkhp.github.io/scripts/aiface.js"></script>
 <div align="center">
 <h1>fuck i need money so bad i need to publish this messed up paper tas need pa ma-bookbind kasi requirements potek nayan i hate college so much im dedicating this project sa lahat ng mga nasa kolehiyo pa kasi grabe dinanas ko >_<</h1>
 <img src="https://GDjkhp.github.io/img/preview_ai.jpg" height=320>
@@ -25,30 +24,38 @@ lisensya? anong pinagsasasabi mo? ofc meron. need mo <a href="http://www.wtfpl.n
 <br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://GDjkhp.github.io/img/PDF_32.png" width=32></a><a href="https://github.com/GDjkhp/ama-facial-recognition"><img src="https://GDjkhp.github.io/img/git.png" width=32></a>
 </div>
-<h1>para saan to?</h1>
+
+# para saan to?
 para mas mapadali mag monitor ng mga tao sa paligid kasi may trust issues si eman (spy ng china)
 
-<h3>mga use case:</h3>
-
+### mga use case:
 * pwedeng gawing biometrics at cctv surveillance
 * nakakatamad magsulat sa logbook, merong pa bang contact-tracing?
 * para mawalan ng trabaho si manong guard >:)
 
-<h1>pano to gamitin?</h1>
-<h3>madali lang to guys need mo lang neto:</h3>
-
+# pano to gamitin?
+### madali lang to guys need mo lang neto:
 * computer na may internet connection (preferably windows pero pwede rin linux or apple)
 * python na hindi kalumaan (need mo rin vs code para mas maganda mag edit)
 * camera (mas malinaw mas maganda)
-<h3>kung ready na lahat, sundan mo to:</h3>
 
+### kung ready na lahat, sundan mo to:
 1. install all reqiured libraries: requirements.txt or pwede rin mano-mano good luck (hint: pip install)
 2. download mo lahat ng mga script: [download as zip](https://github.com/GDjkhp/ama-facial-recognition/archive/refs/heads/master.zip)
-3. enroll mo mukha mo: set-up mo si server (server_capture.py) then picture picture (mp_client.py)
-4. train mo si AI: extract mo lahat ng mga mukha (readdb.py) then train (mp_train.py)
-5. finally try mo na sya congrats: (mp_deploy.py)
-<h1>format ng mga files at structure ng source code</h1>
+3. enroll mo mukha mo: set-up mo si server ([server_capture.py](https://gdjkhp.github.io/ama-facial-recognition/server_capture.py)) then picture picture ([mp_client.py](https://gdjkhp.github.io/ama-facial-recognition/mp_client.py))
+4. train mo si AI: extract mo lahat ng mga mukha ([readdb.py](https://gdjkhp.github.io/ama-facial-recognition/readdb.py)) then train ([mp_train.py](https://gdjkhp.github.io/ama-facial-recognition/mp_train.py))
+5. finally try mo na sya congrats: ([mp_deploy.py](https://gdjkhp.github.io/ama-facial-recognition/mp_deploy.py))
 
+# recipe
+* `imgbeddings` vector embeddings tokenizer for images to assign names for each faces, powered by openai's clip model (credit goes to this [video](https://www.youtube.com/watch?v=Y0dLgtF4IHM))
+* `mediapipe` 3D face detection by google (credit goes to eman)
+* `opencv-contrib-python` cameras, yeah just for the cameras
+* `pyqt5` gui nothing too fancy
+* `numpy` numbers and array things
+* `pillow` imahe by magnus haven
+* `flask`, `requests` server/client network stuff
+
+# format ng mga files at structure ng source code
 * `/*.py` lahat ng logic nandito
 * `/requirements.txt` lahat ng required python libraries nandito
 * `/json/*.json` mga data ng mga mukha + other information na nakalap ni server
