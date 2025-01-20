@@ -1,5 +1,6 @@
 <div align="center">
-<h1>AMA Facial Recognition: Digital Records-logs Management System</h1>
+
+# AMA Facial Recognition: Digital Records-logs Management System
 A Thesis Presented to the Faculty of AMA Computer College Lucena Campus, Lucena City
 <br>
 In Partial Fulfilment of the Requirements for the Degree Bachelor of Science in Computer Science
@@ -10,32 +11,32 @@ John Emmanuel S. Marco
 John Kennedy H. Peña
 <br>
 <img src="https://GDjkhp.github.io/img/previewai.png" width=720>
-<h3>Copyright 2024, The Karakters Kompany</h3>
-lisensya? anong pinagsasasabi mo? ofc meron. need mo <a href="http://www.wtfpl.net">hunter license</a> OwO
-<br>
+
+### Copyright 2024, The Karakters Kompany
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://GDjkhp.github.io/img/PDF_32.png" width=32></a><a href="https://github.com/GDjkhp/ama-facial-recognition"><img src="https://GDjkhp.github.io/img/git.png" width=32></a>
 <details><summary><b>Developers' Notes</b></summary>
-<h1>fuck i need money so bad i need to publish this messed up paper tas need pa ma-bookbind kasi requirements potek nayan i hate college so much im dedicating this project sa lahat ng mga nasa kolehiyo pa kasi grabe dinanas ko (>_<)</h1>
+
+### fuck i need money so bad i need to publish this messed up paper tas need pa ma-bookbind kasi requirements potek nayan i hate college so much im dedicating this project sa lahat ng mga nasa kolehiyo pa kasi grabe dinanas ko (>_<)
 <img src="https://GDjkhp.github.io/img/preview_ai.jpg" height=320>
 <br>
 if you enjoyed the time you wasted then it's not a waste of time <3
 <br>
-<a href="https://paypal.me/GDjkhp">donate</a> kayo if you find this repo helpful minimum lang sweldo ko sa trabaho :3
+[donate kayo if you find this repo helpful, minimum lang sweldo ko sa trabaho :3](https://paypal.me/GDjkhp)
 <br>
 halos lahat ng python script ay AI generated ni OpenAI at Claude, kaya kung may tanong kayo, wag sakin, tanong nyo sa kanila XD
 <br>
 </details>
 </div>
 
-# para saan to?
+## para saan to?
 para mas mapadali mag monitor ng mga tao sa paligid kasi may trust issues si eman (spy ng china)
 
 ### mga use case:
 * pwedeng gawing biometrics at cctv surveillance
 * nakakatamad magsulat sa logbook, merong pa bang contact-tracing?
-* para mawalan ng trabaho si manong guard >:)
+* para mawalan ng trabaho si manong guard >:D
 
-# pano to gamitin?
+## pano to gamitin?
 ### madali lang to guys need mo lang neto:
 * computer na may internet connection (preferably windows pero pwede rin linux or apple)
 * python na hindi kalumaan (need mo rin vs code para mas maganda mag edit)
@@ -48,7 +49,7 @@ para mas mapadali mag monitor ng mga tao sa paligid kasi may trust issues si ema
 4. train mo si AI: extract mo lahat ng mga mukha ([readdb.py](https://gdjkhp.github.io/ama-facial-recognition/readdb.py)) then train ([mp_train.py](https://gdjkhp.github.io/ama-facial-recognition/mp_train.py))
 5. finally try mo na sya congrats: ([mp_deploy.py](https://gdjkhp.github.io/ama-facial-recognition/mp_deploy.py))
 
-# recipe
+## recipe
 * `imgbeddings` vector embeddings tokenizer for images to assign names for each faces, powered by openai's clip model (credit goes to this [video](https://www.youtube.com/watch?v=Y0dLgtF4IHM))
 * `mediapipe` 3D face detection by google (credit goes to eman)
 * `opencv-contrib-python` cameras, yeah just for the cameras
@@ -57,7 +58,7 @@ para mas mapadali mag monitor ng mga tao sa paligid kasi may trust issues si ema
 * `pillow` image processing
 * `flask`, `requests` server/client network stuff (optional)
 
-# format ng mga files at structure ng source code
+## format ng mga files at structure ng source code
 * `/*.py` lahat ng logic nandito
 * `/requirements.txt` lahat ng required python libraries nandito
 * `/json/*.json` base64 image data ng mga mukha + other information na nakalap ni server
@@ -67,4 +68,4 @@ para mas mapadali mag monitor ng mga tao sa paligid kasi may trust issues si ema
 * `/LICENSE` DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 * `/README.md` itong binabasa mo
 
-<marquee><h3>hindi rito kasama node.js server at client code, gamitin nyo nalang server_capture.py at mp_client.py :) pero kung need nyo to, chat nyo nalang si eman (O_o)</h3></marquee>
+<marquee><h3>hindi rito kasama node.js server at client code, gamitin nyo nalang server_capture.py at mp_client.py pero kung need nyo to, chat nyo nalang si eman (O_o)</h3></marquee>
