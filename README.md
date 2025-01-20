@@ -1,5 +1,4 @@
 <div align="center">
-
 <h1>AMA Facial Recognition: Digital Records-logs Management System</h1>
 A Thesis Presented to the Faculty of AMA Computer College Lucena Campus, Lucena City
 <br>
@@ -35,7 +34,7 @@ para mas mapadali mag monitor ng mga tao sa paligid kasi may trust issues si ema
 
 ## pano to gamitin?
 ### madali lang to guys need mo lang neto:
-* computer na may internet connection (preferably windows pero pwede rin linux or apple)
+* computer na may internet connection (preferably windows pero pwede rin linux or mac)
 * python na hindi kalumaan (need mo rin vs code para mas maganda mag edit)
 * camera (mas malinaw mas maganda)
 
