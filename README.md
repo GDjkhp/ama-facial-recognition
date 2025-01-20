@@ -55,7 +55,7 @@ para mas mapadali mag monitor ng mga tao sa paligid kasi may trust issues si ema
 * `pyqt5` gui nothing too fancy
 * `numpy` numbers and array things
 * `pillow` image processing
-* `flask`, `requests` server/client network  (optional)
+* `flask`, `requests` server/client network stuff (optional)
 
 # format ng mga files at structure ng source code
 * `/*.py` lahat ng logic nandito
