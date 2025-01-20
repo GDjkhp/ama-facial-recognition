@@ -1,6 +1,6 @@
 <div align="center">
 
-# AMA Facial Recognition: Digital Records-logs Management System
+<h1>AMA Facial Recognition: Digital Records-logs Management System</h1>
 A Thesis Presented to the Faculty of AMA Computer College Lucena Campus, Lucena City
 <br>
 In Partial Fulfilment of the Requirements for the Degree Bachelor of Science in Computer Science
@@ -11,20 +11,17 @@ John Emmanuel S. Marco
 John Kennedy H. Peña
 <br>
 <img src="https://GDjkhp.github.io/img/previewai.png" width=720>
-
-### Copyright 2024, The Karakters Kompany
+<h3>Copyright 2024, The Karakters Kompany</h3>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://GDjkhp.github.io/img/PDF_32.png" width=32></a><a href="https://github.com/GDjkhp/ama-facial-recognition"><img src="https://GDjkhp.github.io/img/git.png" width=32></a>
 <details><summary><b>Developers' Notes</b></summary>
-
-### fuck i need money so bad i need to publish this messed up paper tas need pa ma-bookbind kasi requirements potek nayan i hate college so much im dedicating this project sa lahat ng mga nasa kolehiyo pa kasi grabe dinanas ko (>_<)
+<h3>fuck i need money so bad i need to publish this messed up paper tas need pa ma-bookbind kasi requirements potek nayan i hate college so much im dedicating this project sa lahat ng mga nasa kolehiyo pa kasi grabe dinanas ko (>_<)</h3>
 <img src="https://GDjkhp.github.io/img/preview_ai.jpg" height=320>
 <br>
 if you enjoyed the time you wasted then it's not a waste of time <3
 <br>
-[donate kayo if you find this repo helpful, minimum lang sweldo ko sa trabaho :3](https://paypal.me/GDjkhp)
+<a href="https://paypal.me/GDjkhp">donate kayo if you find this repo helpful, minimum lang sweldo ko sa trabaho :3</a>
 <br>
 halos lahat ng python script ay AI generated ni OpenAI at Claude, kaya kung may tanong kayo, wag sakin, tanong nyo sa kanila XD
-<br>
 </details>
 </div>
 
