@@ -34,13 +34,13 @@ para mas mapadali mag monitor ng mga tao sa paligid kasi may trust issues si ema
 
 ## pano to gamitin?
 ### madali lang to guys need mo lang neto:
-* computer na may internet connection (preferably windows pero pwede rin linux or mac)
-* python na hindi kalumaan (need mo rin vs code para mas maganda mag edit)
-* camera (mas malinaw mas maganda)
+* computer na may internet connection (preferably [windows](https://www.microsoft.com/en-us/windows) pero pwede rin linux or mac)
+* [python](https://www.python.org) na hindi kalumaan (need mo rin [vs code](https://code.visualstudio.com) para mas maganda mag edit)
+* analog or [ip cameras](https://en.wikipedia.org/wiki/IP_camera) (mas malinaw mas maganda)
 
 ### kung ready na lahat, sundan mo to:
-1. install all required libraries: requirements.txt or pwede rin mano-mano good luck (hint: pip install)
-2. download mo lahat ng mga script: [download as zip](https://github.com/GDjkhp/ama-facial-recognition/archive/refs/heads/master.zip)
+1. install **ALL** required libraries: [requirements.txt](https://gdjkhp.github.io/ama-facial-recognition/requirements.txt) or pwede rin mano-mano good luck (hint: pip install)
+2. download mo **LAHAT** ng mga script: [download as zip](https://github.com/GDjkhp/ama-facial-recognition/archive/refs/heads/master.zip)
 3. enroll mo mukha mo: set-up mo si server ([server_capture.py](https://gdjkhp.github.io/ama-facial-recognition/server_capture.py)) then picture picture ([mp_client.py](https://gdjkhp.github.io/ama-facial-recognition/mp_client.py))
 4. train mo si AI: extract mo lahat ng mga mukha ([readdb.py](https://gdjkhp.github.io/ama-facial-recognition/readdb.py)) then train ([mp_train.py](https://gdjkhp.github.io/ama-facial-recognition/mp_train.py))
 5. finally try mo na sya congrats: ([mp_deploy.py](https://gdjkhp.github.io/ama-facial-recognition/mp_deploy.py))
