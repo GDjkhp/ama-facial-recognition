@@ -11,7 +11,7 @@ John Kennedy H. Peña
 <br>
 <img src="https://GDjkhp.github.io/img/previewai.png" width=720>
 <h3>Copyright 2024, The Karakters Kompany</h3>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://GDjkhp.github.io/img/PDF_32.png" width=32></a><a href="https://github.com/GDjkhp/ama-facial-recognition"><img src="https://GDjkhp.github.io/img/git.png" width=32></a>
+<a href="https://GDjkhp.github.io/ama-facial-recognition/thesis.pdf"><img src="https://GDjkhp.github.io/img/PDF_32.png" width=32></a><a href="https://github.com/GDjkhp/ama-facial-recognition"><img src="https://GDjkhp.github.io/img/git.png" width=32></a>
 <details><summary><b>Developers' Notes</b></summary>
 <h3>fuck i need money so bad i need to publish this messed up paper tas need pa ma-bookbind kasi requirements potek nayan i hate college so much im dedicating this project sa lahat ng mga nasa kolehiyo pa kasi grabe dinanas ko (>_<)</h3>
 <img src="https://GDjkhp.github.io/img/preview_ai.jpg" height=320>
